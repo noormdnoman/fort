@@ -1,0 +1,62 @@
+h1{
+    font-family: cursive;
+}
+.name{
+    color: orange;
+}
+.width-height{
+    width: 45%;
+    float: left;
+   
+    
+    
+    padding-left: 2%;  
+}
+.width-height img{
+   width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+         background-repeat: no-repeat;
+ 
+}
+section{
+    height:500px;
+}
+img{
+    width:50px;
+}
+    .button{
+        text-decoration: none;
+        background-image: linear-gradient(30deg,red, green);
+      padding: 10px 20px;
+      margin: 40px;
+        border-radius: 3px;
+        color: white;
+        font font-weight: 700;
+    }
+    .button1{
+        text-decoration: none;
+        background-image: linear-gradient(30deg,red, green);
+      padding: 1px 50px;
+      margin: 40px;
+        border-radius: 3px;
+        color: white;
+        font font-weight: 700;
+    }
+    .box{
+        box-shadow: 10px 10px 30px gray;
+    }
+#n{
+ 
+   border-left:7px solid;
+    border-image: linear-gradient(tomato, red);
+    border-image-slice: 1;
+}
+#m{
+
+    border-left:7px solid;
+    border-image: linear-gradient(tomato, blue);
+    border-image-slice: 1;
+}
+
